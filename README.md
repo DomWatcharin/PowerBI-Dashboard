@@ -8,9 +8,7 @@ Welcome to my Power BI portfolio! This repository showcases a collection of my P
 
 This project focuses on road analysis in Thailand, analyzing various aspects such as road routes, control, sections, surface conditions, lane counts, and more.
 
-### Power BI Report
-
-`<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMmE5MmUxMTktMWFjMy00MTgzLTg3NjMtYjQzZjgzMGNkODA2IiwidCI6ImU0OWRhNTdiLWI2MDItNDY2Ny1iMjU3LWYyMjgxOWUwZjA5MCIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>`
+Power BI Report
 
 [Direct Link to Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMmE5MmUxMTktMWFjMy00MTgzLTg3NjMtYjQzZjgzMGNkODA2IiwidCI6ImU0OWRhNTdiLWI2MDItNDY2Ny1iMjU3LWYyMjgxOWUwZjA5MCIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
 
