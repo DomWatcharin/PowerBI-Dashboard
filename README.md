@@ -10,7 +10,7 @@ This project focuses on road analysis in Thailand, analyzing various aspects suc
 
 Power BI Report
 
-![Power BI Report Image]([image-url.jpg](https://github.com/DomWatcharin/PowerBI-Dashboard/blob/9470d9a767af4c5886d2ea22468c35ee2f459ed0/data/Screenshot%202567-02-21%20at%2022.40.58.png))
+[Power BI Report Image]([image-url.jpg](https://github.com/DomWatcharin/PowerBI-Dashboard/blob/9470d9a767af4c5886d2ea22468c35ee2f459ed0/data/Screenshot%202567-02-21%20at%2022.40.58.png))
 
 [Direct Link to Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMmE5MmUxMTktMWFjMy00MTgzLTg3NjMtYjQzZjgzMGNkODA2IiwidCI6ImU0OWRhNTdiLWI2MDItNDY2Ny1iMjU3LWYyMjgxOWUwZjA5MCIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
 
